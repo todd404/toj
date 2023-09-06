@@ -1,0 +1,6 @@
+[submodule "toj_backend"]
+	path = toj_backend
+	url = https://github.com/todd404/toj_backend
+[submodule "toj_frontend"]
+	path = toj_frontend
+	url = https://github.com/todd404/toj_frontend
