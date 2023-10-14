@@ -4,3 +4,6 @@
 [submodule "toj_frontend"]
 	path = toj_frontend
 	url = https://github.com/todd404/toj_frontend
+[submodule "toj_judge"]
+	path = toj_judge
+	url = https://github.com/todd404/toj_judge
