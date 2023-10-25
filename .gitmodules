@@ -7,3 +7,9 @@
 [submodule "toj_judge"]
 	path = toj_judge
 	url = https://github.com/todd404/toj_judge
+[submodule "toj_judge_scheduler"]
+	path = toj_judge_scheduler
+	url = https://github.com/todd404/toj_judge_scheduler
+[submodule "toj_file_service"]
+	path = toj_file_service
+	url = https://github.com/todd404/toj_file_service
